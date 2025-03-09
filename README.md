@@ -10,11 +10,11 @@ currently working as NYX company.
 
 ### <summary><strong>Yosh!</strong></summary>
 <p>
-    - :keyboard: I’m currently learning Data Analytics. </br>
+    - :keyboard: I’m currently learning PHP Language And Node JS </br>
     - :speech_balloon: Ask me about anything.</br>
-    - :mailbox: How to reach me: <a href="mailto:youremail@gmail.com">Email me!</a>  </br>
-    - :cloud: Pronouns: She/Her. </br>
-    - :game_die: Drawing and writing are part of me. </br>
+    - :mailbox: How to reach me: <a href="cs@nyxhoster.com">Email me!</a>  </br>
+    - :cloud: Pronouns: He/Hem. </br>
+    - :game_die: Drawing and Coding are part of me. </br>
 <p>
  
 ### <summary><strong>Let's connect!</strong></summary>
@@ -27,7 +27,6 @@ currently working as NYX company.
 <a href="https://yours.com/">
   <img align="left" alt="Goo's Blog" width="20px" src="https://simpleicons.now.sh/blogger/495f7e" />
 </a>
-Ubah link media sosial diatas dengan link media sosial kalian.
 
 Untuk Tools, kalian juga dapat menambahkan:
 
