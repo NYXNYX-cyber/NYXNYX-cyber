@@ -1,3 +1,8 @@
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=NYXNYX-cyber&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/BOTCAHX)
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NYXNYX-cyber&theme=react-dark&hide_border=true" width="100%" alt="Contribution Graph" />
+
 <h1 align="center">Hi 👋, I'm Handika PWX</h1>
 <h3 align="center">A greatest technician that ever live</h3>
 
