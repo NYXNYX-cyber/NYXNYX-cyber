@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nyxnyx-cyber&label=Profile%20views&color=0e75b6&style=flat" alt="nyxnyx-cyber" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nyxnyx-cyber" alt="nyxnyx-cyber" /></a> </p>
+<p align="left"> <a href="https://github.com/NYXNYX-cyber"><img src="https://github-profile-trophy.vercel.app/?username=nyxnyx-cyber" alt="nyxnyx-cyber" /></a> </p>
 
 - 🔭 I’m currently working on [TinyGS Satelite](tinygs.com)
 
