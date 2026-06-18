@@ -33,3 +33,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nyxnyx-cyber&show_icons=true&locale=en" alt="nyxnyx-cyber" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nyxnyx-cyber&" alt="nyxnyx-cyber" /></p>
+
