@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **TinyGS With ESP32**
 
-- 👨‍💻 All of my projects are available at (handika.nyxstudios.site)
+- 👨‍💻 All of my projects are available at [](handika.nyxstudios.site)
 
 - 📫 How to reach me **emailhandika@nyxstudios.site**
 
